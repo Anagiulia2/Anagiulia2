@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning: desenvolvimento [Alura](https://www.alura.com.br/)
+- 🌱 atualmente estou desenvolvimento no [Alura](https://www.alura.com.br/)
   
        **📫 How to reach me:**
   
